@@ -44,5 +44,4 @@ __      _| |__   ___   ___ _   _
 ![VPN](https://img.shields.io/badge/VPN-Tor-orange?style=for-the-badge&logo=tor)
 
 
-
 ![Cute GIF](https://media.tenor.com/images/0416e6a90232c93099a6794a6fa32096/tenor.gif)
