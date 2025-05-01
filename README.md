@@ -45,3 +45,8 @@ __      _| |__   ___   ___ _   _
 
 
 ![Cute GIF](https://media.tenor.com/images/0416e6a90232c93099a6794a6fa32096/tenor.gif)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=whocy.whocy)
+
+[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=tor&logoColor=white)](https://onion.whocy)
+[![Darknet](https://img.shields.io/badge/Darknet-Access%20Denied-red)](#)
