@@ -48,5 +48,3 @@ __      _| |__   ___   ___ _   _
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=whocy.whocy)
 
-[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=tor&logoColor=white)](https://onion.whocy)
-[![Darknet](https://img.shields.io/badge/Darknet-Access%20Denied-red)](#)
